@@ -1,14 +1,14 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Rossi":
+  - firstname: ["Laura", "L.", "Laura Rossi"]
+    url: http://www.mycolloids.com/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Meijer":
+  - firstname: ["Janne-Mieke", "J-M.", "J. M.", "Janne-Mieke Meijer"]
+    url: https://www.janne-miekemeijer.com/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Petukhov":
+  - firstname: ["Andrei", "A.", "Andrei Petukhov]
+    url: https://www.uu.nl/staff/APetoukhov
 
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
