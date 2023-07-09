@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-07-09 16:30
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+It's official! I will be defending my PhD thesis on September 6th at 12:30 PM! :sparkles:

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: A PhD Candidate at TUDelft, Chemical Engineering. Working on Soft Matter.
 
 profile:
   align: right
