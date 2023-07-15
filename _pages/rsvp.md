@@ -7,71 +7,37 @@ nav: true
 nav_order: 5
 ---
 
+As you now know, my PhD defense is coming up. The defense day is preliminary planned as follows:
+
+- **12:00 PM - 12:30 PM**: Layman's Talk
+- **12:30 PM - 1:30 PM**: Defense with Committee
+- **1:30 PM  - 2:00 PM**: Short Reception with snacks
+- **7:30 PM - When the party stops**: Party!
+
+
 ## RSVP Defense Form
 
 Please fill out the form below to RSVP for the event:
 
-<form id="rsvp-form" class="rsvp-form" action="https://script.google.com/macros/s/AKfycby_KcILhOhdLySQY2lnJmg_EbNnGfK9Ums3cxN5UwozH9npUlQWzhbWZUg1bf262HQr/exec" method="POST">
-    <div class="row">
-        <div class="col-md-6 col-sm-6">
-            <div class="form-input-group">
-                <i class="fa fa-envelope"></i>
-                <input type="email" name="email" class="" placeholder="Your email" required>
-            </div>
-        </div>
-        <div class="col-md-6 col-sm-6">
-            <div class="form-input-group">
-                <i class="fa fa-user"></i>
-                <input name="name" class="" placeholder="Your name" required>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-6 col-sm-6">
-            <div class="form-input-group">
-                <i class="fa fa-users"></i>
-                <input type="number" name="extras" class="" min="0" max="4" placeholder="# of people" required>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12" id="alert-wrapper"></div>
-    </div>
-    <button class="btn-fill rsvp-btn">
-        Yes, that's me!
-    </button>
-</form>
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
+onload="if(submitted) {window.location='/thanks/';}"></iframe>
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-  $(document).ready(function() {
-    function alert_markup(type, message) {
-      return '<div class="alert alert-' + type + ' alert-dismissible fade show" role="alert">' +
-        '<button type="button" class="close" data-dismiss="alert" aria-label="Close">' +
-        '<span aria-hidden="true">&times;</span></button>' +
-        message + '</div>';
-    }
-
-    $('#rsvp-form').on('submit', function(e) {
-      e.preventDefault();
-      var data = $(this).serialize();
-
-      $('#alert-wrapper').html(alert_markup('info', '<strong>Just a sec!</strong> We are saving your details.'));
-
-      $.post('https://script.google.com/macros/s/AKfycby_KcILhOhdLySQY2lnJmg_EbNnGfK9Ums3cxN5UwozH9npUlQWzhbWZUg1bf262HQr/exec', data)
-        .done(function(data) {
-          console.log(data);
-          if (data.result === 'error') {
-            $('#alert-wrapper').html(alert_markup('danger', data.message));
-          } else {
-            $('#alert-wrapper').html('');
-            $('#rsvp-modal').modal('show');
-          }
-        })
-        .fail(function (data) {
-          console.log(data);
-          $('#alert-wrapper').html(alert_markup('danger', '<strong>Sorry!</strong> There is some issue with the server. '));
-        });
-    });
-  });
-</script>
+<form id="rsvp-form" action="https://docs.google.com/forms/d/e/1FAIpQLSd4DGeGZXw6scoPlIDZOF2H1Uri25qkd3l5naC9q7LrXmuZIA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="entry.1721819495" required>
+    <br>
+    <label for="email">E-mail:</label>
+    <input type="email" id="email" name="entry.2017076191" required>
+    <br>
+    <label for="guests">Number of People Attending (including you):</label>
+    <input type="number" id="guests" name="entry.1806498429" min="1" required>
+    <br>
+    <label for="attendance">Will you attend the defense, party, or both?</label>
+    <input type="text" id="attendance" name="entry.1630383744" required>
+    <br>
+    <label for="thesis">Would You Like a Physical Copy of the Thesis?</label>
+    <input type="test" id="thesis" name="entry.1763507381">
+    <br>
+    <input type="submit" value="Submit RSVP">
+ </form>
