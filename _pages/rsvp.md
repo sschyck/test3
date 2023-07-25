@@ -12,7 +12,7 @@ As you now know, my PhD defense is coming up. The defense day is preliminary pla
 - **12:00 PM - 12:30 PM**: Layman's Talk
 - **12:30 PM - 1:30 PM**: Defense with Committee
 - **1:30 PM  - 2:00 PM**: Short Reception with snacks
-- **7:30 PM - When the party stops**: Party!
+- **7:00 PM - Late**: Party (Delft city center - TBD)!
 
 
 ## RSVP Defense Form
@@ -33,7 +33,7 @@ onload="if(submitted) {window.location='/thanks/';}"></iframe>
     <label for="guests">Number of People Attending (including you):</label>
     <input type="number" id="guests" name="entry.1806498429" min="1" required>
     <br>
-    <label for="attendance">Will you attend the defense, party, or both?</label>
+    <label for="attendance">Will you attend the defense, party, both, or neither?</label>
     <input type="text" id="attendance" name="entry.1630383744" required>
     <br>
     <label for="thesis">Would You Like a Physical Copy of the Thesis?</label>
