@@ -7,13 +7,20 @@ nav: true
 nav_order: 5
 ---
 
-As you now know, my PhD defense is coming up. The defense day is preliminary planned as follows:
+I see you received my transmission, fellow cosmic voyagers! 🚀🌌
 
-- **12:00 PM - 12:30 PM**: Layman's Talk
-- **12:30 PM - 1:30 PM**: Defense with Committee
-- **1:30 PM  - 2:00 PM**: Short Reception with snacks
-- **7:00 PM - Late**: Party (Delft city center - TBD)!
+Join me at the Technical University of Delft on **September 6th**, where we'll embark on an exhilarating voyage into the microcosmos to explore the preparation and out-of-equilibrium assembly of magnetic and anisotropic particles. The current itinerary is as follows:
 
+🌟 **Layman's Talk: 12:00 PM**
+Prepare for an exhilarating journey through the essence of my research, translated for all sentient beings across the universe!
+🌌 **PhD Defense: 12:30 PM - 1:30 PM**
+Witness the cosmic clash of ideas and knowledge as I defend my thesis against the forces of doubt and skepticism. This is where the real scientific adventure unfolds!
+🪐 **Short Reception: 1:30 PM - 2:30 PM**
+After the intellectual journey, we'll refuel our minds and bodies with a brief reception. Share your thoughts, engage in celestial conversa tions, and enjoy some heavenly treats!
+🌠 **Cosmic Celebration: 7:00 PM till the Stars Go Dim**
+As the sun sets on one adventure, another begins. Gather for an intergalactic party that will defy the boundaries of space and time! Don your favorite sci-fi attire, dance among the stars, and raise your glasses to a future filled with scientific marvels!
+
+Check back here for updates or changes to the plans!
 
 ## RSVP Defense Form
 
