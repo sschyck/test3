@@ -45,7 +45,7 @@ onload="if(submitted) {window.location='/thanks/';}"></iframe>
     <input type="email" id="email" name="entry.2017076191" required>
     <br>
     <label for="guests">Number of People Attending (including you):</label>
-    <input type="number" id="guests" name="entry.1806498429" min="1" required>
+    <input type="number" id="guests" name="entry.1806498429" min="0" required>
     <br>
     <label for="attendance">Will you attend the defense, party, both, or neither?</label>
     <input type="text" id="attendance" name="entry.1630383744" required>
