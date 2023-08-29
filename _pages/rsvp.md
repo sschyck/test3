@@ -58,4 +58,4 @@ Check back here for updates or changes to the plans!
 
 👨‍🚀 **Out of this world?**  👽
 
-Lost in the vastness of space? Stranded in Alpha Centauri? Fear not, fellow cosmic voyagers! You won't miss a beat as an intergalactic connection is available for you to livestream the defense.Y You are free to tune into the livestream starting at 11:55 AM (CEST) via by [clicking here](https://collegerama.tudelft.nl/mediasite/play/633015c336674e5b8856ad7b9cd950b11d). Prepare to be immersed in knowledge and discovery!
+Lost in the vastness of space? Stranded in Alpha Centauri? Fear not, fellow cosmic voyagers! You won't miss a beat as an intergalactic connection is available for you to livestream the defense. You are free to tune into the livestream starting at 11:55 AM (CEST) via by [clicking here](https://collegerama.tudelft.nl/mediasite/play/633015c336674e5b8856ad7b9cd950b11d). Prepare to be immersed in knowledge and discovery!
