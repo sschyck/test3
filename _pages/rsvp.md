@@ -54,34 +54,8 @@ As the sun sets on one adventure, another begins. Gather at **the Gist** for an 
 
 Check back here for updates or changes to the plans!
 
-## RSVP Defense Form
 
-Please fill out the form below to RSVP for the event:
-<div class="form-container">
-<script type="text/javascript">var submitted=false;</script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
-onload="if(submitted) {window.location='/thanks/';}"></iframe>
-
-<form id="rsvp-form" action="https://docs.google.com/forms/d/e/1FAIpQLSd4DGeGZXw6scoPlIDZOF2H1Uri25qkd3l5naC9q7LrXmuZIA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
-    <label for="name">Name:</label>
-    <input type="text" id="name" name="entry.1721819495" required>
-    <br>
-    <label for="email">E-mail:</label>
-    <input type="email" id="email" name="entry.2017076191" required>
-    <br>
-    <label for="guests">Number of People Attending (including you):</label>
-    <input type="text" id="guests" name="entry.1806498429" pattern="[0-9]+" required>
-    <br>
-    <label for="attendance">Will you attend the defense, party, both, or neither?</label>
-    <input type="text" id="attendance" name="entry.1630383744" required>
-    <br>
-    <label for="thesis">Would You Like a Physical Copy of the Thesis?</label>
-    <input type="test" id="thesis" name="entry.1763507381">
-    <br>
-    <input type="submit" value="Submit RSVP">
- </form>
-</div>
 
 👨‍🚀 **Out of this world?**  👽
 
-Lost in the vastness of space? Stranded in Alpha Centauri? Fear not, fellow cosmic voyagers! You won't miss a beat as an intergalactic connection will be available for you to livestream the defense. A link will be transmitted one week before the event, ensuring you're part of this extraordinary scientific journey!
+Lost in the vastness of space? Stranded in Alpha Centauri? Fear not, fellow cosmic voyagers! You won't miss a beat as an intergalactic connection is available for you to livestream the defense.Y You are free to tune into the livestream starting at 11:55 AM (CEST) via by [clicking here](https://collegerama.tudelft.nl/mediasite/play/633015c336674e5b8856ad7b9cd950b11d). Prepare to be immersed in knowledge and discovery!
