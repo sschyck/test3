@@ -52,6 +52,7 @@ After the intellectual journey, we'll refuel our minds and bodies with a brief r
 
 As the sun sets on one adventure, another begins. Gather at **the Gist** for an intergalactic party that will defy the boundaries of space and time! Don your favorite sci-fi attire, dance among the stars, and raise your glasses to a future filled with scientific marvels!
 
+*Address:* (Phoenixstraat 4C, 2611 AL Delft)[https://goo.gl/maps/hLDbt7YvbfpJNqr47]
 Check back here for updates or changes to the plans!
 
 
