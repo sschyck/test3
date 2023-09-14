@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2023-03-07 13:18
+date: 2023-09-06 15:30
 inline: true
 related_posts: false
 ---
 
-I gave a talk at the <a href="https://meetings.aps.org/Meeting/MAR23/Session/G07.8"> APS March Meeting </a> in Las Vegas on active hematite swimmers.
+I successfully defended my PhD thesis on September 6th! I'm now a doctorate holder!
