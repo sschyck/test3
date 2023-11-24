@@ -19,8 +19,10 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/9248/head"
 end
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
+    
 end
